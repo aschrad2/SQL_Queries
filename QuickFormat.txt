@@ -1,0 +1,5 @@
+=CONCATENATE(A1:A22)
+Press F9
+Erase brackets
+Ctrl + F > Replace > " with '
+Ctrl + F > Replace > ; with ,
